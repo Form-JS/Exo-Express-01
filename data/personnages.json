@@ -1,0 +1,62 @@
+[
+    {
+        "firstname": "Balthazar",
+        "lastname": "Picsou",
+        "description": "Balthazar Picsou (Scrooge McDuck en VO) est un personnage phare de Disney, apparu pour la première fois en 1947, sous le crayon du scénariste-dessinateur Carl Barks2. Il est le canard le plus riche du monde et un citoyen distingué de Canardville (Duckburg). Personnage plutôt avare, il est l'oncle de Donald Duck et le grand-oncle des triplés Riri, Fifi et Loulou. Picsou est le principal protagoniste de la série originale et du reboot de 2017. \n\nDans la série de 1987, Picsou ressemble beaucoup à sa version papier. C'est un milliardaire autodidacte qui a quitté l'Écosse dans sa jeunesse et est venu en Amérique avec son précieux sous-fétiche (comme on l'apprend dans l'épisode Il était une fois un sou (Once Upon a Dime)). Il a finalement établie sa maison au manoir McPicsou et a érigé son célèbre coffre-fort, refermant toute sa fortune, à Canardville. Malgré le fait qu'il soit déjà très riche, il cherche constamment à gagner encore plus d'argent. Pour cela il part à l'aventure à la recherche nouveaux trésors accompagné de ses petits-neveux Riri, Fifi et Loulou.",
+        "images": "/images/balthazar_picsou.png"
+    },
+    {
+        "firstname": "Zaza",
+        "lastname": "Vanderquack",
+        "description": "Elisabeth \"Zaza\" Vanderquack (Webbigail \"Webby\" Vanderquack en VO) est un personnage apparu pour la première fois dans la série d'animation La Bande à Picsou en 19876,7. Il s'agit d'une jeune cane ayant à peu près le même âge que Riri, Fifi et Loulou. \n\nDans la série de 1987, Zaza et sa grand-mère Mamie Baba se sont installées dans le manoir Picsou quand cette dernière a été embauchée par Balthazar Picsou pour être la gouvernante des triplés. Malgré sa ressemblance avec les nièces de Daisy Duck (Lili, Lulu et Zizi), elle n'a aucun lien de parenté connu avec la famille Duck. Mamie Baba est le seul membre connu de sa famille. Dans cette série, Zaza est une représentation typique des filles dans les émissions pour enfants des années 80 : elle est timide, adore les animaux, porte toujours une poupée et agit généralement comme un gentil aiguillon rappelant à Picsou de ne pas sombrer dans l'avidité. Il est cependant notable qu'elle rejoint les rangs des Castor Junior",
+        "images": "/images/zaza_vanderquack.png"
+    },
+    {
+        "firstname": "Della",
+        "lastname": "Duck",
+        "description": "Della Duck est la mère des triplés Riri, Fifi et Loulou et la sœur jumelle de Donald. Apparue d'abord de manière élusive dans les bande dessinées, elle fait sa première apparition dans l'animation à l'occasion de cette série22. \n\nDella Duck n’apparaît pas dès le début de la série. Dans un premier temps, Riri, Fifi et Loulou tentent de découvrir ce qui est arrivé à leur mère qu'ils n'ont jamais connue23. On apprendra plus tard dans l'épisode En route pour l'avionture ! (The Last Crash of the Sunchaser!) de la saison 1, les raisons de la disparition de Della. Elle a voulu essayer, contre l'avis de la famille, une fusée révolutionnaire conçue par Picsou : la "Lance de Sélène". Le voyage ne se déroula pas comme prévu et une tempête cosmique la força à atterrir d'urgence sur la Lune. On apprend dans l'épisode Le périple de Della Duck ! (What Ever Happened to Della Duck?!) de la saison 2, qu'une fois là bas, elle luttera pour survivre 10 ans durant, tout en tentant de réparer son vaisseau. Enfin, c'est dans l'épisode La lance dorée ! (The Golden Spear!) de la saison 2 que celle-ci revient sur terre, et dans Rien n'arrête Della Duck ! (Nothing Can Stop Della Duck!) qu'elle rejoint Picsou et les neveux. ",
+        "images": "/images/della_duck.png"
+    },
+    {
+        "firstname": "Riri",
+        "lastname": "Duck",
+        "description": "Riri, Fifi et Loulou (Huey, Dewey, and Louie Duck en VO) sont également des personnages phares de Disney. D'apparence identique (ils sont triplés), ils sont les neveux de Donald Duck et les petits-neveux de Balthazar Picsou. Leur mère est Della Duck, mais ils ont été élevés par leur oncle. \n\nDans la série de 1987, ils sont confiés à Picsou afin que Donald puisse rejoindre la marine. Comme dans les bandes dessinées de Carl Barks, ils sont identiques physiquement et ont des personnalités très proches. Ils sont tous les trois membres des Castors Juniors. \n\nRiri, est plus sage et cultivé et a l'habitude de tout planifier, il est le seul des trois à être Castor Junior. Riri est toujours habillé en rouge avec un polo et une casquette. Son nom complet est Richard (Hubert en VO), mais sa mère souhaitait initialement l'appeler Jet.",
+        "images": "/images/riri_duck.png"
+    },
+    {
+        "firstname": "Fifi",
+        "lastname": "Duck",
+        "description": "Riri, Fifi et Loulou (Huey, Dewey, and Louie Duck en VO) sont également des personnages phares de Disney. D'apparence identique (ils sont triplés), ils sont les neveux de Donald Duck et les petits-neveux de Balthazar Picsou. Leur mère est Della Duck, mais ils ont été élevés par leur oncle. \n\nDans la série de 1987, ils sont confiés à Picsou afin que Donald puisse rejoindre la marine. Comme dans les bandes dessinées de Carl Barks, ils sont identiques physiquement et ont des personnalités très proches. Ils sont tous les trois membres des Castors Juniors. \n\nFifi, quant à lui, est bien plus téméraire et intrépide que ses deux frères et aime particulièrement l'aventure. C'est le plus impliqué dans l'enquête sur la disparition leur mère. Il aime aussi attirer l'attention sur lui et a une certaine complicité avec Zaza. Fifi est toujours habillé en bleu avec un t-shirt à manches courtes par dessus un t-shirt à manches longues. Son nom complet est Firmin (Dewford en VO), mais sa mère souhaitait initialement l'appeler Turbo.",
+        "images": "/images/fifi_duck.png"
+    },
+    {
+        "firstname": "Loulou",
+        "lastname": "Duck",
+        "description": "Riri, Fifi et Loulou (Huey, Dewey, and Louie Duck en VO) sont également des personnages phares de Disney. D'apparence identique (ils sont triplés), ils sont les neveux de Donald Duck et les petits-neveux de Balthazar Picsou. Leur mère est Della Duck, mais ils ont été élevés par leur oncle. \n\nDans la série de 1987, ils sont confiés à Picsou afin que Donald puisse rejoindre la marine. Comme dans les bandes dessinées de Carl Barks, ils sont identiques physiquement et ont des personnalités très proches. Ils sont tous les trois membres des Castors Juniors. \n\n Loulou est fainéant voire paresseux et hérite légèrement de l'avarice de son grand-oncle, à la différence qu'il aime l'argent gagné facilement. Il est désigné comme le frère diabolique de la fratrie et il est doué pour échafauder des plans et des combines. Loulou est toujours habillé en vert avec un sweat à capuche. Son nom complet est Louis (Llewellyn en VO), mais sa mère souhaitait initialement l'appeler Rebel.",
+        "images": "/images/loulou_duck.png"
+    },
+    {
+        "firstname": "Donald",
+        "lastname": "Duck",
+        "description": "Donald Duck est un personnage emblématique de Disney, qui a fait ses débuts dans le court métrage d'animation de 1934 Une petite poule avisée (The Wise Little Hen). Il est l'oncle de Riri, Fifi et Loulou, le neveu de Picsou et le frère de Della. \n\nDans la série de 1987, le personnage est très peu utilisé pour se focaliser davantage sur Picsou et les triplés. Selon Tad Stones, faire parler Donald autant que dans les bandes dessinées serait impossible, car sa voix peut rendre ses paroles incompréhensibles20. Au début du premier épisode N'abandonnez pas le navire ! (Treasure of the Golden Suns, part 1 : Don't Give Up The Ship), Donald laisse ses neveux à Picsou afin de pouvoir s'engager dans la marine21. Par la suite, il fera quelques apparitions dans la série. ",
+        "images": "/images/donald_duck.jpg"
+    },
+    {
+        "firstname": "Archibald",
+        "lastname": "Gripsou",
+        "description": "Archibald Gripsou (Flintheart Glomgold en VO) est un homme d'affaires milliardaire, ennemi de Picsou, créé en 1956 par Carl Barks30. \n\nDans la série de 1987, contrairement aux bandes dessinées de Carl Barks, Gripsou vit à Canardville et non pas en Afrique du Sud. Il est également originaire d’Écosse tout comme Picsou, il porte d'ailleurs un kilt et un béret et parle avec un accent écossais31. Gripsou est l'un des principaux ennemis de Picsou dans la série et apparaît d'ailleurs dès le deuxième épisode Fausse route vers Fausse Route (Treasure of the Golden Suns, part 2 : Wronguay in Ronguay)32,Note 1. Son objectif est de devenir le canard le plus riche du monde à la place de Picsou. ",
+        "images": "/images/archibald_gripsou.jpg"
+    },
+    {
+        "firstname": "Miss",
+        "lastname": "Tick",
+        "description": "Miss Tick (Magica De Spell en VO) est une sorcière créée en 1961 par Carl Barks. Elle est l'un des principaux ennemis de Picsou. \n\nDans la série de 1987, Miss Tick fait sa première apparition dans la saison 1, à l'occasion de l'épisode Bien mal acquis ne profite jamais (Send in the Clones)36. Tout comme dans les histoires de Barks, la sorcière est ici à la recherche du sou-fétiche de Picsou37. Cependant ses raisons sont plus nobles : en récupérant le sou, elle pense acquérir les pouvoirs nécessaires pour rendre sa forme originelle à Poe, son frère transformé en corbeau par erreur38. ",
+        "images": "/images/miss-tick.jpg"
+    },
+    {
+        "firstname": "Gontran",
+        "lastname": "Bonheur",
+        "description": "Gontran Bonheur (Gladstone Gander en VO), personnage populaire de l'univers Disney, est initialement créé en bande dessinée par Carl Barks en 194886. Il s'agit d'un cousin particulièrement chanceux de Donald. \n\nDans la série de 1987, le personnage reste fidèle à la version de Carl Barks, aussi bien au niveau du design que de sa personnalité dont sa chance. Il apparaît pour la première fois dans l'épisode Le Sou fétiche de Picsou (Dime Enough For Luck)87 où il est manipulé par Miss Tick afin de se servir de sa chance pour pouvoir dérober le sous fétiche de Picsou. ",
+        "images": "/images/gontran_bonheur.jpg"
+    }
+]
