@@ -10,6 +10,7 @@ const app = express();
 // Config du server
 app.set('view engine', 'ejs');
 app.set('views', './views');
+app.use(express.static('./public'));
 
 // Ajout des routes
 app.use(homeRouter);

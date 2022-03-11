@@ -1,0 +1,53 @@
+/* Général */
+body {
+    width: 100vw;
+    margin: 0px;
+    background-color: #e2ffe2;
+}
+
+h1 {
+    font-size: 4rem;
+    color: goldenrod;
+    text-shadow: 3px 3px 5px black;
+    margin: 10px 5%;
+}
+
+/* Navbar */
+.navbar-app {
+    background-color: goldenrod;
+}
+.navbar-app ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    display: flex;
+}
+.navbar-app li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 4rem;
+}
+.navbar-app a {
+    font-size: 2rem;
+    text-decoration: none;
+    margin: 0px 10px;
+    color: #e2ffe2;
+    text-shadow: 2px 2px 3px black;
+}
+.navbar-app li:hover a {
+    color: #09ff09;
+    text-shadow: 2px 2px 3px crimson;
+}
+.navbar-app li:hover {
+    background-color: rgb(160, 120, 21);
+}
+/* Home page */
+.title-img {
+    width: calc(100% - 50px);
+    margin: auto;
+    display: block;
+    border: solid 1px black;
+    border-radius: 20px;
+}
+
